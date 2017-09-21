@@ -3,7 +3,6 @@
 # COLORS
 KMAG='\e[0;35m'
 KRED='\033[0;31m'
-#KWHT='\x1B[37m'
 KWHT='\e[97m'
 KNC='\033[0m'
 KOR='\e[5;95;38;5;214m'
