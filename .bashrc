@@ -1,5 +1,4 @@
 # COLORS
-#KMAG='\x1B[35m'
 KMAG='\e[0;35m'
 KRED='\033[0;31m'
 #KWHT='\x1B[37m'
@@ -17,5 +16,8 @@ KFDEF='\e[0m'
 KFBOLD='\e[1m'
 KFITALIC='\e[3m'
 
+# If you want to remove the current path
 # export PS1="${KMAG}▲${KNC} ${KBGRED}${KWHT}${KFBOLD}${KFITALIC} Supreme ${KFDEF}${KNC}${KBGDEF} "
+
+# With current path
 export PS1="${KMAG}▲${KNC} ${KOR}\w${KNC} ${KBGRED}${KWHT}${KFBOLD}${KFITALIC} Supreme ${KFDEF}${KNC}${KBGDEF} "
