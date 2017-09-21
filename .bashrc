@@ -1,3 +1,5 @@
+# APPEND THE FOLLOWING IN YOUR .bashrc or .bash_profile file.
+
 # COLORS
 KMAG='\e[0;35m'
 KRED='\033[0;31m'
